@@ -1,0 +1,8 @@
+You can have this error
+source/Discord.hx:4: characters 8-30 : Type not found : discord_rpc.DiscordRpc
+source/Discord.hx:19: characters 3-13 : Type not found : DiscordRpc
+source/Discord.hx:29: characters 4-14 : Type not found : DiscordRpc
+source/Discord.hx:34: characters 3-13 : Type not found : DiscordRpc
+source/Discord.hx:39: characters 3-13 : Type not found : DiscordRpc
+source/Discord.hx:44: characters 3-13 : Type not found : DiscordRpc
+source/Discord.hx:81: characters 3-13 : Type not found : DiscordRpc
